@@ -1,0 +1,45 @@
+# macos
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# venv
+.venv/
+venv/
+env/
+
+# packaging and build output
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# test coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+.env
+
+# market data
+data/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
